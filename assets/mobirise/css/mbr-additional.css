@@ -422,7 +422,7 @@ h6,
 }
 #msg-box7-o P {
   text-align: right;
-  color: #160505;
+  color: #1a1818;
   font-size: 20px;
   font-family: 'Open Sans', sans-serif;
 }
@@ -442,6 +442,9 @@ h6,
 #msg-box7-o B {
   color: #000000;
   text-align: center;
+}
+#msg-box7-o SPAN {
+  color: #000000;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
@@ -515,11 +518,22 @@ h6,
 #header1-3 .mbr-section-title {
   color: #5f0de2;
 }
-#pricing-table1-q .mbr-section__container .mbr-section-title {
+#msg-box8-u .mbr-section-title,
+#msg-box8-u p {
   color: #fff;
 }
-#pricing-table1-q .mbr-section__container .mbr-section-subtitle {
-  color: #a0a0a0;
+#msg-box8-u .lead P {
+  color: #000000;
+}
+#msg-box8-u .lead H4 {
+  color: #2b0680;
+}
+#gallery2-s .mbr-gallery-item > div > span {
+  text-align: center;
+}
+#social-buttons3-t .mbr-section-title,
+#social-buttons3-t .btn-social {
+  color: #fff;
 }
 
 

@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 28,
+    "uniqCompNum": 31,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@"
   },
@@ -45,7 +45,7 @@
             },
             "P": {
               "text-align": "right",
-              "color": "#160505",
+              "color": "#1a1818",
               "font-size": "20px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
@@ -67,6 +67,9 @@
             "B": {
               "color": "#000000",
               "text-align": "center"
+            },
+            "SPAN": {
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -78,11 +81,11 @@
             "imageSize": "37",
             "paddingTop": "2",
             "paddingBottom": "2",
-            "parallax": true,
-            "bgImageRadio": false,
+            "parallax": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
             "bgColor": "#efefef",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -122,9 +125,9 @@
               "color": "#9365b8"
             }
           },
-          "title": "<i>EthoShop &nbsp;&amp; Earth Day &nbsp;</i><br><i>Golden Circle for&nbsp;</i><i>$1 </i><i>&nbsp;</i><i>AND/</i><i>O</i><i>R &nbsp;</i><br><i>DONATE TO STOP THIS &nbsp;</i>",
-          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>&nbsp; &nbsp; &nbsp; &nbsp; Ticket office opens every 5 min&nbsp;</b><b style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span style=\"line-height: 1.5;\">Purchase your subscribtion to EthoShop to</span><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">obtain your&nbsp;</span><span style=\"line-height: 1.5;\">coupon number to enter ticket office&nbsp;</span></span><span style=\"line-height: 1.5;\">Good Luck  draw opens&nbsp;<u>15 June 2017 at 8.00 </u>&nbsp; OR&nbsp;</span><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">SUBSCRIBE SO WE CAN <u>DONA</u><span style=\"line-height: 1.5;\"><u>TE </u>TO YO</span></span><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">UR CAUSE&nbsp;</span></span></span></b></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-clock mbr-iconfont mbr-iconfont-btn\"></span>Sagar to Add clock &nbsp;NEXT draw &nbsp;5MIN COUNTDOWN</a>  <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">337 party goers in ticket office now<br>3400 tickets still available&nbsp;<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;SUBSCRIBE NOW &nbsp;</a> "
+          "title": "<span style=\"font-weight: normal;\">EthoShop &nbsp;&amp; Earth Day &nbsp;<br>Golden Circle for&nbsp;$1 &nbsp;AND/OR &nbsp;<br></span><span style=\"font-weight: normal;\">DONATE TO STOP THIS</span><i> &nbsp;</i>",
+          "text": "<p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Ticket office opens every 5 min&nbsp;<span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span style=\"line-height: 1.5;\">Purchase your subscribtion to Eth</span></span><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">oShop to&nbsp;</span><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">obtain your &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></span><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">coupon number to ENTER DRAW for entry to ticket office&nbsp;</span></span></span></span></b></p><p><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><b>Good Luck  draw opens&nbsp;<u>15 June 2017 at 8.00 </u>&nbsp;</b></span></span></p><p><b><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">OR&nbsp;</span><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">SUBSCRIBE S</span></span></span><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">O WE CAN <u>DONA</u><span style=\"line-height: 1.5;\"><u>TE </u>TO YO</span></span><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">UR CAUSE&nbsp;</span></span></span></span></b></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-clock mbr-iconfont mbr-iconfont-btn\"></span>Sagar to Add clock &nbsp;NEXT draw &nbsp;5MIN COUNTDOWN</a>  <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">337 party goers in ticket office now<br>3400 tickets still available&nbsp;<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;SUBSCRIBE NOW &nbsp;</a> "
         },
         {
           "_styles": {
@@ -194,11 +197,11 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
-            "sticky": true,
+            "sticky": false,
             "logo": true,
             "showBrand": true,
             "collapsed": false,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -274,13 +277,151 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Click here to get $1 Golden Circle Concert tickets from EthoShop &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>Afliliates contact EthoShop</a> "
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "color": "#000000"
+            },
+            ".lead H4": {
+              "color": "#2b0680"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-u",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "ETHOSHOP&nbsp;",
+          "text": "<h4>SUBSCRIBE FOR YOUR CAUSE BELOW AND GET YOUR DISCOUNT OR REUSABLE BAG ........</h4><h4><span style=\"font-size: 1.5rem; line-height: 1.1;\">REFER A FRIEND AND GET FREE MONTH SUBSCRIPTION&nbsp;</span></h4>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-12-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-12-2000x1333.jpg",
+                "caption": "SAVE ENDANGERED SPECIES&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1342-800x536.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1342.jpg",
+                "caption": "WATER SHORTAGES&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-13-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-13-2000x1333.jpg",
+                "caption": "JOIN THE FIGHT&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1530-800x612.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1530.jpg",
+                "caption": "CLIMATE CHANGE",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-14-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-14-2000x1333.jpg",
+                "caption": "KEEP OUR CHILDREN PLAYING NOT WORKING&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-15-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-15-2000x1333.jpg",
+                "caption": "REFER A FRIEND&nbsp;",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1338-800x535.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1338.jpg",
+                "caption": "SUBSCRIBE HERE",
+                "active": false
+              }
+            ],
+            "spacing": "1",
+            "showText": true,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-s",
+          "articleLayout": false,
+          "allItem": "All",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
           "_tags": [
             "Theme"
           ],
           "_name": "testimonials2",
           "testimonial": [
             {
-              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
+              "text": "<p>“its really amazing &nbsp;I can my decision in seconds &nbsp; ( that's usually takes more than 1 hours at least from me if i did my own research). i hope to have very big library soon, thanks again for your nice application”</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face3.jpg",
@@ -294,7 +435,7 @@
               "authorBio": "User"
             },
             {
-              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
+              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work EthoShop team. We are expecting the new version soon with advance functionality . Great effort and super UI experience with easy to use navigation. \"</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face1.jpg",
@@ -308,7 +449,7 @@
               "authorBio": "User"
             },
             {
-              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear instructions. &nbsp;Give me more control over my decisions and ill be using this tool &nbsp;more. Regards.”</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -342,90 +483,20 @@
             "showSubtitle": true
           },
           "title": "WHAT OUR FANTASTIC USERS SAY",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+          "subtitle": "WE ARE BUYING THANKS TO ETHOSHOP TO CHANGE OUR WORLD - JOE SMITH&nbsp;"
         },
         {
+          "_inherit": "social-buttons1",
           "_styles": {
-            ".mbr-section__container .mbr-section-title": {
+            ".mbr-section-title, .btn-social": {
               "color": "#fff"
-            },
-            ".mbr-section__container .mbr-section-subtitle": {
-              "color": "#a0a0a0"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "pricing-table1",
-          "_anchor": "pricing-table1-q",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#303030",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": true,
-            "firstType": "",
-            "showButtons": true,
-            "secondType": "bg-primary",
-            "thirdType": "",
-            "fourthType": ""
-          },
-          "title": "PRICING TABLE",
-          "subtitle": "Pricing table with four columns and solid color background.",
-          "label1": "HOT!",
-          "title1": "STANDARD",
-          "subtitle1": "Description",
-          "currency1": "$",
-          "price1": "0",
-          "period1": "/mo.",
-          "description1": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
-          "label2": "HOT!",
-          "title2": "BUSINESS",
-          "subtitle2": "Description",
-          "currency2": "$",
-          "price2": "0",
-          "period2": "/mo.",
-          "description2": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
-          "label3": "HOT!",
-          "title3": "PREMIUM",
-          "subtitle3": "Description",
-          "currency3": "$",
-          "price3": "0",
-          "period3": "/mo.",
-          "description3": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
-          "label4": "HOT!",
-          "title4": "ULTIMATE",
-          "subtitle4": "Description",
-          "currency4": "$",
-          "price4": "0",
-          "period4": "/mo.",
-          "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-r",
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-t",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -434,86 +505,16 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
           },
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "1234 Street Name, City AA 99999",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "<a href=\"mailto:support@mobirise.com\">support@mobirise.com</a>",
-          "title1": "Categories",
-          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
-          "form": {
-            "title": "MESSAGE",
-            "action": "",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "text": "SHARE THIS PAGE!"
         }
       ]
     },
@@ -594,11 +595,11 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
-            "sticky": true,
+            "sticky": false,
             "logo": true,
             "showBrand": true,
             "collapsed": false,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
