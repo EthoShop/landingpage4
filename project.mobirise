@@ -45,14 +45,16 @@
             },
             "P": {
               "text-align": "right",
-              "color": "#1a1818",
-              "font-size": "20px",
+              "color": "#553982",
+              "font-size": "21px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             "H3": {
               "text-align": "right",
-              "color": "#6714ed"
+              "color": "#1a1414",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             "I": {
               "text-align": "right",
@@ -69,7 +71,11 @@
               "text-align": "center"
             },
             "SPAN": {
-              "color": "#000000"
+              "color": "#2b0680",
+              "font-size": "24px",
+              "text-align": "left",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_tags": [
@@ -78,10 +84,10 @@
           "_name": "msg-box7",
           "_anchor": "msg-box7-o",
           "_params": {
-            "imageSize": "37",
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "parallax": false,
+            "imageSize": "27",
+            "paddingTop": "3",
+            "paddingBottom": "6",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
             "bgColor": "#efefef",
@@ -90,11 +96,11 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.4",
+            "overlay": false,
+            "overlayOpacity": "0.1",
             "overlayColor": "#efefef",
             "inverse": false,
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": true
           },
@@ -125,9 +131,9 @@
               "color": "#9365b8"
             }
           },
-          "title": "<span style=\"font-weight: normal;\">EthoShop &nbsp;&amp; Earth Day &nbsp;<br>Golden Circle for&nbsp;$1 &nbsp;AND/OR &nbsp;<br></span><span style=\"font-weight: normal;\">DONATE TO STOP THIS</span><i> &nbsp;</i>",
-          "text": "<p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Ticket office opens every 5 min&nbsp;<span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span style=\"line-height: 1.5;\">Purchase your subscribtion to Eth</span></span><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">oShop to&nbsp;</span><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">obtain your &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></span><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">coupon number to ENTER DRAW for entry to ticket office&nbsp;</span></span></span></span></b></p><p><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><b>Good Luck  draw opens&nbsp;<u>15 June 2017 at 8.00 </u>&nbsp;</b></span></span></p><p><b><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">OR&nbsp;</span><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">SUBSCRIBE S</span></span></span><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">O WE CAN <u>DONA</u><span style=\"line-height: 1.5;\"><u>TE </u>TO YO</span></span><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">UR CAUSE&nbsp;</span></span></span></span></b></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-clock mbr-iconfont mbr-iconfont-btn\"></span>Sagar to Add clock &nbsp;NEXT draw &nbsp;5MIN COUNTDOWN</a>  <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">337 party goers in ticket office now<br>3400 tickets still available&nbsp;<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;SUBSCRIBE NOW &nbsp;</a> "
+          "title": "EthoShop &nbsp;&amp; Earth Day &nbsp;<br>",
+          "text": "<p><b style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">SUBSCRIBE S</span></span></span><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">O WE CAN <u>DONA</u><span style=\"line-height: 1.5;\"><u>TE </u>TO YO</span></span><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">UR CAUSE (watch video) OR&nbsp;</span></span></span></span></b></p><p><b style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">SUBSCRIBE TO ENTER DRAW TO ENTER TICKET OFFICE FOR $1 CONCERT TICKET. </span></span></span></span></b></p><p><b style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">NEW DRAW OPENS EVERY 5 MIN</span></span></span></span></b></p><p><b style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">CLICK BELOW</span></span></span></span></b></p><p><b style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><br></span></span></span></span></b></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SUBSCRIBE HERE ENTER EMAIL&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">&nbsp; CLICK TO ENTER NEXT DRAW&nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">337 party goers in ticket office now<br>3400 tickets still available&nbsp;<br></a>  "
         },
         {
           "_styles": {
@@ -147,10 +153,10 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -192,7 +198,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#553982",
-            "fontSize": "1.2",
+            "fontSize": "1",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
@@ -222,7 +228,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-login mbr-iconfont mbr-iconfont-btn\"></span>EthoShop &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; BUY THE CHANGE YOU WANT TO SEE IN THE WORLD&nbsp;</a>",
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-login mbr-iconfont mbr-iconfont-btn\"></span>EthoShop &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ETHOSHOP AND EARTH DAY CAMPAIGN&nbsp;</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"etl-icon icon-twitter mbr-iconfont mbr-iconfont-btn\"></span>FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span>Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-facebook mbr-iconfont mbr-iconfont-btn\"></span>FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About us</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -466,8 +472,8 @@
           "_anchor": "testimonials2-p",
           "_params": {
             "count": 3,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "showImages": true,
             "showName": true,
             "showBio": true,
@@ -498,8 +504,8 @@
           "_name": "social-buttons3",
           "_anchor": "social-buttons3-t",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -590,7 +596,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#f28281",
-            "fontSize": "1.2",
+            "fontSize": "1",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
@@ -620,7 +626,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-login mbr-iconfont mbr-iconfont-btn\"></span>EthoShop &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; BUY THE CHANGE YOU WANT TO SEE IN THE WORLD&nbsp;</a>",
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-login mbr-iconfont mbr-iconfont-btn\"></span>EthoShop &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ETHOSHOP AND EARTH DAY CAMPAIGN&nbsp;</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"etl-icon icon-twitter mbr-iconfont mbr-iconfont-btn\"></span>FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span>Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-facebook mbr-iconfont mbr-iconfont-btn\"></span>FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About us</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {

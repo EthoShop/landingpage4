@@ -1,5 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+
 
 
 
@@ -422,13 +425,14 @@ h6,
 }
 #msg-box7-o P {
   text-align: right;
-  color: #1a1818;
-  font-size: 20px;
+  color: #553982;
+  font-size: 21px;
   font-family: 'Open Sans', sans-serif;
 }
 #msg-box7-o H3 {
   text-align: right;
-  color: #6714ed;
+  color: #1a1414;
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box7-o I {
   text-align: right;
@@ -444,7 +448,10 @@ h6,
   text-align: center;
 }
 #msg-box7-o SPAN {
-  color: #000000;
+  color: #2b0680;
+  font-size: 24px;
+  text-align: left;
+  font-family: 'Oswald', sans-serif;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
@@ -462,11 +469,11 @@ h6,
   color: #000000;
 }
 #menu-0 .link {
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 1.300rem;
+  font-size: 1.083rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
