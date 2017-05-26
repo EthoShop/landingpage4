@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 31,
+    "uniqCompNum": 32,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@"
   },
@@ -132,8 +132,8 @@
             }
           },
           "title": "EthoShop &nbsp;&amp; Earth Day &nbsp;<br>",
-          "text": "<p><b style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">SUBSCRIBE S</span></span></span><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">O WE CAN <u>DONA</u><span style=\"line-height: 1.5;\"><u>TE </u>TO YO</span></span><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">UR CAUSE (watch video) OR&nbsp;</span></span></span></span></b></p><p><b style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">SUBSCRIBE TO ENTER DRAW TO ENTER TICKET OFFICE FOR $1 CONCERT TICKET. </span></span></span></span></b></p><p><b style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">NEW DRAW OPENS EVERY 5 MIN</span></span></span></span></b></p><p><b style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">CLICK BELOW</span></span></span></span></b></p><p><b style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><br></span></span></span></span></b></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SUBSCRIBE HERE ENTER EMAIL&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">&nbsp; CLICK TO ENTER NEXT DRAW&nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">337 party goers in ticket office now<br>3400 tickets still available&nbsp;<br></a>  "
+          "text": "<p><b style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">ENTER DRAW TO ENTER TICKET OFFICE FOR GOLDEN CIRCLE </span></span></span></span></b></p><p><b style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">$1 CONCERT TICKET.</span></span></span></span></b><br></p><p><b style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">NEW DRAW OPENS EVERY 5 MIN</span></span></span></span></b></p><p><b style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">SUBSCRIBE &nbsp;NOW TO GET YOUR COUPON NUMBER TO QUALIFY&nbsp;</span></span></span></span></b></p><br><p><span style=\"line-height: 1.5;\"><b>SUBSCRIBE SO WE CAN DONATE TO YOUR CAUSE (watch video) </b></span><br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SUBSCRIBE HERE ENTER EMAIL&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">&nbsp; CLICK TO ENTER NEXT DRAW&nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">337 party goers in ticket office now<br>3400 tickets still available&nbsp;<br></a>  "
         },
         {
           "_styles": {
@@ -328,6 +328,11 @@
             "Theme"
           ],
           "_name": "gallery2",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "text-align": "center"
+            }
+          },
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
@@ -423,12 +428,7 @@
           },
           "_anchor": "gallery2-s",
           "articleLayout": false,
-          "allItem": "All",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "text-align": "center"
-            }
-          }
+          "allItem": "All"
         },
         {
           "_tags": [
@@ -500,6 +500,91 @@
           },
           "title": "WHAT OUR FANTASTIC USERS SAY",
           "subtitle": "WE ARE BUYING THANKS TO ETHOSHOP TO CHANGE OUR WORLD - JOE SMITH&nbsp;"
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            },
+            ".mbr-price-figure": {
+              "font-size": "30px"
+            },
+            ".mbr-plan-price-desc": {
+              "text-align": "center"
+            },
+            ".mbr-price-term": {
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-v",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#303030",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "showButtons": true,
+            "secondType": "bg-primary",
+            "thirdType": "",
+            "fourthType": ""
+          },
+          "title": "Try any plan free for 5 days",
+          "subtitle": "",
+          "label1": "HOT!",
+          "title1": "FREE",
+          "subtitle1": "",
+          "currency1": "GBP",
+          "price1": "0",
+          "period1": "/mo.",
+          "description1": "Single user<br>5 reports a month",
+          "list1": "<ul class=\"list-group list-group-flush\"></ul>",
+          "button1": " <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">TRY FREE TRIAL NOW</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">DEMO</a>",
+          "label2": "HOT!",
+          "title2": "PREMIUM",
+          "subtitle2": "",
+          "currency2": "GBP",
+          "price2": "15",
+          "period2": "/mo.<br>Single user<br>25 reports a month<br>",
+          "description2": "",
+          "list2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">TRY FREE TRIAL NOW&nbsp;</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">DEMO</a>",
+          "label3": "HOT!",
+          "title3": "GOLDl&nbsp;",
+          "subtitle3": "",
+          "currency3": "GBP",
+          "price3": "29/m",
+          "period3": "o.",
+          "description3": "Single User<br>Unlimited reports&nbsp;",
+          "list3": "<ul class=\"list-group list-group-flush\"></ul><div></div>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">TRY FREE TRIAL NOW&nbsp;</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">DEMO</a>",
+          "label4": "HOT!",
+          "title4": "Custom&nbsp;",
+          "subtitle4": "",
+          "currency4": "",
+          "price4": "",
+          "period4": "contact us",
+          "description4": "",
+          "list4": "<p>Looking for something more</p><p>&nbsp;<ul class=\"list-group list-group-flush\"></ul></p>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Contact enquiry</a>"
         },
         {
           "_inherit": "social-buttons1",
